@@ -1,5 +1,5 @@
 # Parham
-# 6 hour project
+# 7 hour project
 from PyQt5 import QtCore, QtGui, QtWidgets
 
 
